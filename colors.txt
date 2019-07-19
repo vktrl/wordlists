@@ -29,7 +29,6 @@ Lime
 Linen
 Magenta
 Maroon
-Moccasin
 Olive
 Orange
 Orchid
@@ -39,7 +38,6 @@ Plum
 Purple
 Red
 Salmon
-Seashell
 Sienna
 Silver
 Snow
@@ -49,6 +47,5 @@ Thistle
 Tomato
 Turquoise
 Violet
-Wheat
 White
 Yellow

@@ -41,7 +41,6 @@ chimpanzee
 chinchilla
 chipmunk
 civet
-cockroach
 cougar
 cow
 coyote
@@ -69,6 +68,7 @@ fish
 flamingo
 flounder
 fox
+fowl
 frog
 gecko
 gerbil
@@ -81,9 +81,8 @@ gorilla
 grasshopper
 grey seal
 greyhound
-grizzly bear
+grizzly
 grouse
-guinea fowl
 guppy
 hamster
 harrier
@@ -92,10 +91,9 @@ heron
 hippopotamus
 horse
 hound
-howler monkey
+howlermonkey
 hummingbird
 hyena
-i
 ibis
 iguana
 jackal
@@ -115,7 +113,6 @@ lizard
 llama
 lobster
 lynx
-m
 macaque
 macaw
 mammoth
